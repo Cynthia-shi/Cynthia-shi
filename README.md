@@ -14,3 +14,5 @@
 <a href="https://github.com/Cynthia-shi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cynthia-shi&show_icons=true&include_all_commits=true" />
 </a>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cynthia-shi&repo=Cynthia-shi)
